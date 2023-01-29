@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LogicalProblem
 {
-    public class PerfectNumber
+    public class PerfectNumber // find perfect
     {
         public static void FindNumbers()
         {
